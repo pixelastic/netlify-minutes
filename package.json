@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "aberlaas": "1.10.1"
+    "aberlaas": "1.11.0"
   },
   "bin": {
     "netlify-minutes": "bin/netlify-minutes"
