@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "aberlaas": "1.13.3"
+    "aberlaas": "1.14.0"
   },
   "bin": {
     "netlify-minutes": "bin/netlify-minutes"
@@ -23,7 +23,7 @@
   },
   "version": "0.1.1",
   "dependencies": {
-    "firost": "2.0.6",
+    "firost": "2.1.0",
     "golgoth": "1.5.0",
     "minimist": "1.2.5",
     "netlify": "4.9.0",
