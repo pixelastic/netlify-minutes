@@ -5539,10 +5539,10 @@ nested-error-stacks@^2.0.0:
   resolved "https://registry.npmjs.org/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify@6.0.10:
-  version "6.0.10"
-  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.0.10.tgz#d61f84e69e74e412f0dbeb48fc6692c5411b6bd5"
-  integrity sha512-kU6sYiFH2L6omD8kYHXjXTkXh+DOxZTU7KWufU5JBztUe8q6AUJpGUyBABr3bztZMj3qovicPPaLzZjwW8xEqQ==
+netlify@6.0.11:
+  version "6.0.11"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.0.11.tgz#b427a2e029886fef0d49bab74e9e3201e491bec0"
+  integrity sha512-PatzLn+8CokVHofuyXdFs1lDvNcMONwkK/VqvadOtQhL9/T2T+v/Mf+q5L5bQvRydV1PlofFK2+RT02owVCWWA==
   dependencies:
     "@netlify/open-api" "^1.0.0"
     "@netlify/zip-it-and-ship-it" "^2.0.0"
