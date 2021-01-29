@@ -27,6 +27,6 @@
     "golgoth": "2.0.0",
     "minimist": "1.2.5",
     "netlify": "6.1.4",
-    "node-object-hash": "2.1.0"
+    "node-object-hash": "2.1.2"
   }
 }
