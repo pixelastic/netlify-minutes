@@ -528,10 +528,10 @@
   resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-1.3.0.tgz#873b6b1d678a883b3f8e097ce05054455253d676"
   integrity sha512-GcCPXIWI8VDBsLN4nPvb6sKS9tbi4lrHLhex90hT27nwTDeu4HgGE93YilcsgZ1LLODJNxC5LdfTNLtvEHMKVg==
 
-"@netlify/zip-it-and-ship-it@^2.1.2":
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-2.1.2.tgz#8e3cc0124b34807e01788290b65b2d08d1af933e"
-  integrity sha512-CWu/lFghcOARebnIHmwE+D0Dc7GPXNN0Vv3Spz/JWXOJQORgofY0mzVTKEpiUk0dgBZHCMmlcGKJjn0zvYGD4g==
+"@netlify/zip-it-and-ship-it@^2.1.3":
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-2.1.3.tgz#573fd7e0ff4f29a6023614a78972f83f138e995d"
+  integrity sha512-nYHM4dnlua/aCe74ZPZcIlWAN1QbyGDaWbJi+Qkb0VSe4yX6PYvPNeymABggDbA9xFhk+nEA98wSu2A/beHPfQ==
   dependencies:
     archiver "^4.0.0"
     common-path-prefix "^2.0.0"
@@ -5551,13 +5551,13 @@ nested-error-stacks@^2.0.0:
   resolved "https://registry.npmjs.org/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify@6.1.5:
-  version "6.1.5"
-  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.5.tgz#f4f29d997723844c217e27387852d0d0cb5b7e56"
-  integrity sha512-FbBgu7y709WhoMHg+Alo49mgoMCw2BEeWN5poeLal7XqpbVWOM90xRRJusYawkkgRBJT2DZmuQt1N3As3SUzYA==
+netlify@6.1.6:
+  version "6.1.6"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.6.tgz#c841438a802e04b5914b5d3af48d633ee2b0b0e8"
+  integrity sha512-hjXoiqKHetP+OD/DmOLHeTW/AZvsitFCz5d1mOAivrnQXVKrKRS6XHbsLELiUuXv8hW1PrWnImFF0VdLPKo0wA==
   dependencies:
     "@netlify/open-api" "^1.3.0"
-    "@netlify/zip-it-and-ship-it" "^2.1.2"
+    "@netlify/zip-it-and-ship-it" "^2.1.3"
     backoff "^2.5.0"
     clean-deep "^3.4.0"
     flush-write-stream "^2.0.0"
