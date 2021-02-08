@@ -26,7 +26,7 @@
     "firost": "2.7.0",
     "golgoth": "2.0.0",
     "minimist": "1.2.5",
-    "netlify": "6.1.6",
+    "netlify": "6.1.7",
     "node-object-hash": "2.1.2"
   }
 }
