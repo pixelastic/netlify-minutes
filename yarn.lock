@@ -543,15 +543,15 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@netlify/open-api@^2.3.1":
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-2.3.1.tgz#dfac54eb860bd5d0eb13082cfc6d7626a5e5705b"
-  integrity sha512-t+4M1iJNVTSu/Q8Xxr0RQFzuMoVs0s2UaomCLLvbnWP9IHP9So7fiJ9ynwykDKFovPjUqgkU2Yqm+7KlXJ0k9g==
+"@netlify/open-api@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-2.4.0.tgz#baad301a2886c2b075e6f345fd1a88bc8d0449ca"
+  integrity sha512-ffNpGiJulY4is1pWkrs1dn3/ytNoqJxyAD/N70cnkIVNpOWMnPGSPKGBk/TBpaZhispgSBBQ+JZXEMJAGMDZ6Q==
 
-"@netlify/zip-it-and-ship-it@^3.8.0":
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-3.8.0.tgz#29b6ef75b890292faa870f494be81d6958a75883"
-  integrity sha512-wbGx21cUXM7MCsvCA6ApHqIGSgaiZq4AdHA9KcRya1RvqllODgJSPYU87vSTP8jPjW3m3EwFNp/qTZ3WR23ZZQ==
+"@netlify/zip-it-and-ship-it@^3.9.0":
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-3.9.0.tgz#c58ac29c6b3436776bc10d5902711c5dd99a93e2"
+  integrity sha512-LvXGlCfbZRwLIKwkW/ocK+Trygk4NpC86PEbj5Xp9UNDcgC1mnKQKlt8E4QxwQE9pgyADr6st4O1xX39zKh+Hw==
   dependencies:
     archiver "^4.0.0"
     array-flat-polyfill "^1.0.1"
@@ -5633,13 +5633,13 @@ nested-error-stacks@^2.0.0:
   resolved "https://registry.npmjs.org/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify@6.1.24:
-  version "6.1.24"
-  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.24.tgz#9796248eeb2a8080a55dd2c9fd137c55d042bbd7"
-  integrity sha512-4LN6vxz6eB0NZ680JlrwOzVMoLW7fm3k7pYA1zV6UkR2z0c+VFs12XXIO4M2VCt8Piyof6GTarbubXMjBitTQw==
+netlify@6.1.25:
+  version "6.1.25"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-6.1.25.tgz#584bcb59722b50405451596cad74f70746227f61"
+  integrity sha512-vO/jGef0l1m1Xg55ehEZ2PMWqaxc3cSPgXDUESRoL6MSVfhbK6Es9qZZKla7YGO7rt42T9mmH7XIRLvizs3wwQ==
   dependencies:
-    "@netlify/open-api" "^2.3.1"
-    "@netlify/zip-it-and-ship-it" "^3.8.0"
+    "@netlify/open-api" "^2.4.0"
+    "@netlify/zip-it-and-ship-it" "^3.9.0"
     backoff "^2.5.0"
     clean-deep "^3.4.0"
     flush-write-stream "^2.0.0"
