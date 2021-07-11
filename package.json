@@ -23,7 +23,7 @@
   },
   "version": "0.1.1",
   "dependencies": {
-    "firost": "2.16.0",
+    "firost": "2.16.1",
     "golgoth": "2.0.0",
     "minimist": "1.2.5",
     "netlify": "7.0.1",
