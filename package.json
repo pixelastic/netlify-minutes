@@ -24,7 +24,7 @@
   "version": "0.1.1",
   "dependencies": {
     "firost": "2.16.2",
-    "golgoth": "2.0.0",
+    "golgoth": "2.1.0",
     "minimist": "1.2.5",
     "netlify": "8.0.0",
     "node-object-hash": "2.3.8"
