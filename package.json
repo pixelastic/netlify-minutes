@@ -27,7 +27,7 @@
     "golgoth": "2.1.0",
     "minimist": "1.2.8",
     "netlify": "8.0.4",
-    "node-object-hash": "2.3.10"
+    "node-object-hash": "3.0.0"
   },
   "engines": {
     "node": ">=14.17.0"
