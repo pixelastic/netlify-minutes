@@ -1,3 +1,7 @@
+> **⚠️ ARCHIVED**: I no longer need to track Netlify build minutes, and the API has likely changed since.
+
+---
+
 # Netlify-minutes
 
 Command-line tool to help pinpoint which of your builds are consuming too many minutes.
